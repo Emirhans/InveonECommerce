@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+    Layout = null;
+}
+
+<h2>Kayıt Ol</h2>
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+@model InveonECommerce.Models.UserModel
+<div class="container">
+    <div class="row glyphicon-align-center">
+        <div class="col-lg-4">
+            <div class="card">
+                <div class="card-body">
+
+
+                    @ViewBag.message
+                    @using (Html.BeginForm("Register", "Account", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="wrap-input100 validate-input" data-validate="Enter username">
+                            @Html.TextBoxFor(f => f.Username, new { placeholder = "Kullanıcı Adı", title = "Kullanıcı adınızı giriniz.", @Value = @ViewBag.user })
+                        </div>
+                        <br />
+                        <div class="wrap-input100 validate-input" data-validate="Enter password">
+                            @Html.TextBoxFor(f => f.Password, new { type = "password", placeholder = "Şifre", title = "Şifrenizi giriniz.", @Value = @ViewBag.password })
+                        </div>
+                        <br />
+                        <div class="wrap-input100 validate-input" data-validate="Enter password">
+                            <select id="Roles" name="Role">
+
+                                <option value="">Seçiniz</option>
+
+                                <option value="Admin">Admin</option>
+
+                                <option value="User">Kullanıcı</option>
+
+                            </select>
+                        </div>
+                        <br />
+                        <input type="submit" value="Kayıt Ol">
+
+                    }
+
+                    <input type="button" value="Giriş Yap" onclick="window.location='@Url.Action("Login","Account")'">
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

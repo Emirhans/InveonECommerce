@@ -1,0 +1,50 @@
+﻿@model InveonECommerce.Models.UserModel
+@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+<h2>Giriş Yap</h2>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+
+   <div class="container">
+       <div class="row glyphicon-align-center">
+           <div class="col-lg-4">
+               <div class="card">
+                   <div class="card-body">
+                    
+
+                       @ViewBag.message
+                       <br />
+                       @using (Html.BeginForm("Login", "Account", FormMethod.Post))
+                       {
+                           @Html.AntiForgeryToken()
+
+                           <div class="wrap-input100 validate-input" data-validate="Enter username">
+                               @Html.TextBoxFor(f => f.Username, new { placeholder = "Kullanıcı Adı", title = "Kullanıcı adınızı giriniz.", @Value = @ViewBag.user })
+                           </div>
+                           <br />
+                           <div class="wrap-input100 validate-input" data-validate="Enter password">
+                               @Html.TextBoxFor(f => f.Password, new { type = "password", placeholder = "Şifre", title = "Şifrenizi giriniz.", @Value = @ViewBag.password })
+                           </div>
+                           <br />
+                           <input type="submit" value="Giriş Yap">
+
+                       }
+                       <input type="button" value="Kayıt Ol" onclick="window.location='@Url.Action("Register","Account")'">
+                   </div>
+               </div>
+           </div>
+
+       </div>
+
+   </div>
+  
+
+
+
+
+

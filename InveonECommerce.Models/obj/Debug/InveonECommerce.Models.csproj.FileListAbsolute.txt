@@ -1,0 +1,14 @@
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\bin\Debug\InveonECommerce.Models.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\bin\Debug\InveonECommerce.Models.pdb
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\bin\Debug\InveonECommerce.DataAccess.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\bin\Debug\EntityFramework.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\bin\Debug\InveonECommerce.Entities.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\bin\Debug\InveonECommerce.DataAccess.pdb
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\bin\Debug\InveonECommerce.DataAccess.dll.config
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\bin\Debug\EntityFramework.xml
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\bin\Debug\InveonECommerce.Entities.pdb
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\obj\Debug\InveonECommerce.Models.csprojAssemblyReference.cache
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\obj\Debug\InveonECommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\obj\Debug\InveonECommerce.Models.csproj.CopyComplete
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\obj\Debug\InveonECommerce.Models.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Models\obj\Debug\InveonECommerce.Models.pdb

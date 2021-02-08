@@ -1,0 +1,17 @@
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\bin\Debug\InveonECommerce.DataAccess.dll.config
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\bin\Debug\InveonECommerce.DataAccess.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\bin\Debug\InveonECommerce.DataAccess.pdb
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\bin\Debug\InveonECommerce.Entities.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\bin\Debug\InveonECommerce.Entities.pdb
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\obj\Debug\InveonECommerce.DataAccess.csprojAssemblyReference.cache
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\obj\Debug\InveonECommerce.DataAccess.Migrations.CreateDatabase.resources
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\obj\Debug\InveonECommerce.DataAccess.Migrations.Users.resources
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\obj\Debug\InveonECommerce.DataAccess.csproj.GenerateResource.cache
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\obj\Debug\InveonECommerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\obj\Debug\InveonECommerce.DataAccess.csproj.CopyComplete
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\obj\Debug\InveonECommerce.DataAccess.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.DataAccess\obj\Debug\InveonECommerce.DataAccess.pdb

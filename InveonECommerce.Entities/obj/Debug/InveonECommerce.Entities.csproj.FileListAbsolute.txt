@@ -1,0 +1,5 @@
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Entities\bin\Debug\InveonECommerce.Entities.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Entities\bin\Debug\InveonECommerce.Entities.pdb
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Entities\obj\Debug\InveonECommerce.Entities.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Entities\obj\Debug\InveonECommerce.Entities.dll
+C:\Users\emirh\source\repos\InveonECommerce.UI\InveonECommerce.Entities\obj\Debug\InveonECommerce.Entities.pdb
